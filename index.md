@@ -4,10 +4,6 @@
 
 ---
 
-### Research Assistant - University of Minnesota
-
----
-
 ### Teaching Assistant - University of Minnesota
 
 

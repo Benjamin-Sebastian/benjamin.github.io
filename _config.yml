@@ -1,9 +1,7 @@
 title: Benjamin Sebastian # your name (or website title) here
 logo: "/images/my_pic.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-A motivated and detail-oriented computer science student. Passionate about solving complex problems and discovering innovative solutions.
-Seeking challenging work opportunities that allow me to continue learning and developing as a computer scientist alongside a team of some of the 
-best professionals in the field.  <br><br>
+A motivated and detail-oriented computer science student. Passionate about solving complex problems and discovering innovative solutions. Seeking challenging work opportunities that allow me to continue learning and developing as a computer scientist alongside a team of some of the best professionals in the field.  <br><br>
   <a href="https://www.linkedin.com/in/benjamin-t-sebastian">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
