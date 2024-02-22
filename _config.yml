@@ -1,10 +1,11 @@
-title: Benjamin Sebastian # your name (or website title) here
+title: Rishabh Agarwal # your name (or website title) here
 logo: "/images/my_pic.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-<p>A motivated and detail-oriented computer science student. Passionate about solving complex problems and discovering innovative solutions. Seeking challenging work opportunities that allow me to continue learning and developing as a computer scientist alongside a team of some of the best professionals in the field.</p>  <br><br>
-  <a href="https://www.linkedin.com/in/benjamin-t-sebastian">View My LinkedIn Profile</a> 
+  Aspiring software engineer looking for enhanced real-world experience. Has experience with data-oriented programming, computational architecture, and machine learning and is eager to learn more through an internship
+  <br><br>
+  <a href="https://www.linkedin.com/in/rishabh-agarwal-a5b78121b">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-# google_analytics: G-89YR903VR0 # your Google Analytics tracking ID here
+google_analytics: G-89YR903VR0 # your Google Analytics tracking ID here
